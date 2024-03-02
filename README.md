@@ -20,10 +20,10 @@ Meet Mahmudul, a web developer since 2017. With skills in JavaScript, PHP, and C
 <table align="center">
   <tr>
     <td>
-      <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=MdMahmudulHasanGit&show_icons=true&locale=en&layout=compact" alt="MdMahmudulHasan" />
+      <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=codeWithMahmudul&show_icons=true&locale=en&layout=compact" alt="MdMahmudulHasan" />
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MdMahmudulHasanGit&show_icons=true&locale=en" alt="MdMahmudulHasan" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codeWithMahmudul&show_icons=true&locale=en" alt="MdMahmudulHasan" />
     </td>
   </tr>
 </table>
